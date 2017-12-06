@@ -10,8 +10,8 @@ Puppet 是一個基於實現 infrastructure as a code 的組態管理工具，�
 
 # 目錄
 
-- Day 1 - 前言
-- Day 2 - Puppet 是什麼？能吃嗎？
+- [Day 1 - 前言](docs/01.intro.md)
+- [Day 2 - Puppet 是什麼？能吃嗎？](docs/02.what-puppet.md)
 - Day 3 - Puppet 的架構
 - Day 4 - 你不能不知道的 Puppet 小常識
 - Day 5 - Master-Agent 架構 - Master 安裝
