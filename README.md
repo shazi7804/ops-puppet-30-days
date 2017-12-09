@@ -2,7 +2,7 @@
 
 在這個 DevOps 文化如此蓬勃的時代裡，Ops 不再是單純 Ops，Dev 也不純了，每個工程師都要有能打十個的能力才能努力活下來，在大環境如此凶險的情況下，要如何讓自己擁有相同的生活品質早點下班，絕對是每個工程師夢寐以求的議題。
 
-Puppet 是一個基於實現 infrastructure as a code 的組態管理工具，與其相同性質的有 Ansible、SaltStack、Chef 等工具，在國際擁有財星 Top 100 佔有 75% 使用率。
+Puppet 是一個基於實現 infrastructure as a code 的組態管理工具，與其相同性質的有 Ansible、SaltStack、Chef 等工具，在國際擁有 Startup 到財星 Top 100 間佔有 75% 使用率。
 
 - [Github：Ops 的轉職之路 - Puppet 從入門就放棄][github]
 - [Gitbook：Puppet 從入門就放棄][gitbook]
