@@ -17,7 +17,7 @@ Puppet 是一個基於實現 infrastructure as a code 的組態管理工具，�
 - [Day 5 - Master-Agent 架構 - Master 安裝](docs/05.puppet-master-install.md)
 - [Day 6 - Master-Agent 架構 - Agent 安裝](docs/06.puppet-agent-install.md)
 - [Day 7 - Master 和 Agent 之間的關係](docs/07.how-to-master-and-agent-auth.md)
-- Day 8 - 手把手系列 - 第一個 manifests
+- [Day 8 - 手把手系列 - 第一個 manifests](docs/08.how-to-write-manifests.md)
 - Day 9 - 手把手系列 - 第一個 module
 - Day 10 - modules 的篩選
 - Day 11 - 處理 Resource 之間的順序
