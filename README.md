@@ -19,9 +19,9 @@ Puppet 是一個基於實現 infrastructure as a code 的組態管理工具，�
 - [Day 7 - Master 和 Agent 之間的關係](docs/07.how-to-master-and-agent-auth.md)
 - [Day 8 - 手把手系列 - 第一個 manifests](docs/08.how-to-write-manifests.md)
 - [Day 9 - 手把手系列 - 第一個 module](docs/09.how-to-write-module.md)
-- [Day 10 - modules 的篩選]()
-- Day 11 - 處理 Resource 之間的順序
-- Day 12 - 手把手系列 - 常用的 Resource
+- [Day 10 - modules 的篩選](docs/10.filter-module.md)
+- [Day 11 - 處理 Resource 之間的順序](docs/11.resource-older.md)
+- [Day 12 - 手把手系列 - 常用的 Resource](docs/12.simple-resource.md)
 - Day 13 - 用 Hiera 來處理資料
 - Day 14 - 用 eyaml-hiera 來處理機敏資料
 - Day 15 - Puppet 內建的檔案系統
