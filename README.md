@@ -24,7 +24,7 @@ Puppet 是一個基於實現 infrastructure as a code 的組態管理工具，�
 - [Day 12 - 手把手系列 - 常用的 Resource](docs/12.simple-resource.md)
 - [Day 13 - 用 Hiera 來處理資料](docs/13.how-to-use-hiera-data.md)
 - [Day 14 - 用 eyaml-hiera 來處理機敏資料](docs/14.how-to-encrypt-hiera-data.md)
-- Day 15 - Puppet 內建的檔案系統
+- [Day 15 - Puppet 內建的檔案系統](docs/15.puppet-file-system.md)
 - Day 16 - 手把手系列 - 用 templates 來處理檔案內容
 - Day 17 - 什麼軟體盤點？就用 facter 就好啦！
 - Day 18 - 手把手系列 - Linux 實戰
