@@ -30,9 +30,9 @@ Puppet 是一個基於實現 infrastructure as a code 的組態管理工具，�
 - [Day 18 - 手把手系列 - Linux 實戰](docs/18.lab-linux.md)
 - [Day 19 - 手把手系列 - LAMP 實戰](docs/19.lab-lamp.md)
 - [Day 20 - 手把手系列 - Nginx + NodeJS 實戰](docs/20.lab-nginx-nodejs.md)
-- Day 21 - 和很潮的工具結合 - Docker
-- Day 22 - 和很潮的工具結合 - Packer
-- Day 23 - 和很潮的工具結合 - Vagrant
+- [Day 21 - 和很潮的工具結合 - Docker](docs/21.puppet-with-docker.md)
+- [Day 22 - 和很潮的工具結合 - Packer](docs/22.puppet-with-packer.md)
+- [Day 23 - 和很潮的工具結合 - Vagrant](docs/23.puppet-with-vagrant.md)
 - Day 24 - 設計基於 cronjob 的分散式概念
 - Day 25 - 設計 Role and Profile 架構的 Puppet
 - Day 26 - 讓 Puppet 進版控吧！
