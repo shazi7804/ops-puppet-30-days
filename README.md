@@ -37,7 +37,7 @@ Puppet 是一個基於實現 infrastructure as a code 的組態管理工具，�
 - [Day 25 - 設計 Role and Profile 架構的 Puppet](docs/25.role-and-profile.md)
 - [Day 26 - 讓 Puppet 進版控吧！](docs/26.puppet-with-git.md)
 - [Day 27 - Puppet 的測試工具](docs/27.puppet-test-tools.md)
-- Day 28 - 備份與還原
+- [Day 28 - 備份與還原](docs/28.puppet-backup.md)
 - Day 29 - 疑難雜症 Q&A
 - Day 30 - 總結
 
