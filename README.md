@@ -38,8 +38,8 @@ Puppet 是一個基於實現 infrastructure as a code 的組態管理工具，�
 - [Day 26 - 讓 Puppet 進版控吧！](docs/26.puppet-with-git.md)
 - [Day 27 - Puppet 的測試工具](docs/27.puppet-test-tools.md)
 - [Day 28 - 備份與還原](docs/28.puppet-backup.md)
-- Day 29 - 疑難雜症 Q&A
-- Day 30 - 總結
+- [Day 29 - 疑難雜症 Q&A](docs/29.puppet-qa.md)
+- [Day 30 - 總結](docs/30.the-end.md)
 
 [github]: https://github.com/shazi7804/ops-puppet-30-days
 [gitbook]: https://www.gitbook.com/book/shazi7804/puppet-manage-guide/details
