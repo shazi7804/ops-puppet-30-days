@@ -41,6 +41,10 @@ Puppet 是一個基於實現 infrastructure as a code 的組態管理工具，�
 - [Day 29 - 疑難雜症 Q&A](docs/29.puppet-qa.md)
 - [Day 30 - 總結](docs/30.the-end.md)
 
+## 致謝
+
+非常感謝團長 [Miles](https://github.com/MilesChou) 的邀請，以及隊員 [聖佑](https://github.com/shengyou) 的互相努力，在這互相傷害的 30 天同甘共苦。
+
 [github]: https://github.com/shazi7804/ops-puppet-30-days
 [gitbook]: https://www.gitbook.com/book/shazi7804/puppet-manage-guide/details
 
